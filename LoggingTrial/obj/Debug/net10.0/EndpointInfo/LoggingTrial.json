@@ -1,0 +1,120 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "LoggingTrial | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5233"
+    }
+  ],
+  "paths": {
+    "/things": {
+      "get": {
+        "tags": [
+          "GetThing"
+        ],
+        "summary": "Get thing",
+        "operationId": "GetThing",
+        "parameters": [
+          {
+            "name": "mode",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "$ref": "#/components/schemas/ThingMode"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GetThingResponseBody"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Unprocessable Entity",
+            "content": {
+              "application/problem+json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "GetThingResponseBody": {
+        "required": [
+          "message"
+        ],
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string"
+          }
+        }
+      },
+      "ProblemDetails": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "title": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "status": {
+            "type": [
+              "null",
+              "integer"
+            ],
+            "format": "int32"
+          },
+          "detail": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "instance": {
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        }
+      },
+      "ThingMode": {
+        "enum": [
+          "Known",
+          "Unknown",
+          "ThrowDbTimeout",
+          "ThrowDbUpdate",
+          "ThrowDivideByZero"
+        ]
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "GetThing"
+    }
+  ]
+}

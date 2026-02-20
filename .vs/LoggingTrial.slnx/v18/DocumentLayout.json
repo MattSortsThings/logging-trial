@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\LoggingTrial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\getthing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\getthing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\domainerrortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\domainerrortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\timeoutdbupdateexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\timeoutdbupdateexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\invalidenumargumentexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\invalidenumargumentexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\fallbackexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\fallbackexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\domainerrorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\domainerrorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\domainerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\domainerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\badhttprequestexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\badhttprequestexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|d:\\repos\\loggingtrial\\loggingtrial\\internals\\thingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AEF56F-2E7F-5CBA-7AA3-EFBC490DB5E1}|LoggingTrial\\LoggingTrial.csproj|solutionrelative:loggingtrial\\internals\\thingmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainErrorType.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\DomainErrorType.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\DomainErrorType.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\DomainErrorType.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\DomainErrorType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:56:49.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeoutDbUpdateExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\TimeoutDbUpdateExceptionHandler.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\TimeoutDbUpdateExceptionHandler.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\TimeoutDbUpdateExceptionHandler.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\TimeoutDbUpdateExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:00:50.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvalidEnumArgumentExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\InvalidEnumArgumentExceptionHandler.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\InvalidEnumArgumentExceptionHandler.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\InvalidEnumArgumentExceptionHandler.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\InvalidEnumArgumentExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:00:42.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FallbackExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\FallbackExceptionHandler.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\FallbackExceptionHandler.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\FallbackExceptionHandler.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\FallbackExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:00:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetThing.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\GetThing.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\GetThing.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\GetThing.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\GetThing.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:39:21.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DomainErrorExtensions.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\DomainErrorExtensions.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\DomainErrorExtensions.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\DomainErrorExtensions.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\DomainErrorExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T07:00:02.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DomainError.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\DomainError.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\DomainError.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\DomainError.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\DomainError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:58:56.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\DependencyInjection.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\DependencyInjection.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:56:57.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BadHttpRequestExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\BadHttpRequestExceptionHandler.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\BadHttpRequestExceptionHandler.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\BadHttpRequestExceptionHandler.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\BadHttpRequestExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:56:51.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Program.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Program.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Program.cs",
+              "RelativeToolTip": "LoggingTrial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:52:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThingMode.cs",
+              "DocumentMoniker": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\ThingMode.cs",
+              "RelativeDocumentMoniker": "LoggingTrial\\Internals\\ThingMode.cs",
+              "ToolTip": "D:\\Repos\\LoggingTrial\\LoggingTrial\\Internals\\ThingMode.cs",
+              "RelativeToolTip": "LoggingTrial\\Internals\\ThingMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T06:48:01.16Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

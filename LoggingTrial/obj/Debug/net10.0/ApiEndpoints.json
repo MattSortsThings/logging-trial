@@ -1,0 +1,35 @@
+[
+  {
+    "ContainingType": "LoggingTrial.Internals.GetThing",
+    "Method": "HandleAsync",
+    "RelativePath": "things",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mode",
+        "Type": "LoggingTrial.Internals.ThingMode",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LoggingTrial.Internals.GetThingResponseBody",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/problem\u002Bjson"
+        ],
+        "StatusCode": 422
+      }
+    ],
+    "EndpointName": "GetThing",
+    "Summary": "Get thing"
+  }
+]
